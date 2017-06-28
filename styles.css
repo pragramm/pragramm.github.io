@@ -1,13 +1,21 @@
 body{
     background-color: pink;
-    font-family: fantasy;
+    font-family:cursive;
 }
 h1 {
     color: yellow;
+    text-align:center;
 }
 h2 {
     color: blue;
 }
 p{
 color: green;    
+}
+
+table{
+    width: 100%
+}
+table,td,tr{
+    border:1px solid black;
 }
